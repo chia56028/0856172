@@ -5,3 +5,7 @@
 ### Success
 ![](/img/success_1.PNG)
 ![](/img/success_2.PNG)
+
+### Failure
+![](/img/failure_1.PNG)
+![](/img/failure_2.PNG)
